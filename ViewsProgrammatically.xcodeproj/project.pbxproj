@@ -24,6 +24,7 @@
 		111575BF1E845BE800A05C5E /* NumberCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NumberCollectionViewCell.swift; sourceTree = "<group>"; };
 		111575C01E845BE800A05C5E /* NumbersCollectionViewDelegateAndDataSource.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NumbersCollectionViewDelegateAndDataSource.swift; sourceTree = "<group>"; };
 		111575C11E845BE800A05C5E /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		11CFC9751E845FD8008073C1 /* ViewsProgrammatically-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ViewsProgrammatically-Bridging-Header.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +64,7 @@
 				111575B21E845B9300A05C5E /* Assets.xcassets */,
 				111575B41E845B9300A05C5E /* LaunchScreen.storyboard */,
 				111575B71E845B9300A05C5E /* Info.plist */,
+				11CFC9751E845FD8008073C1 /* ViewsProgrammatically-Bridging-Header.h */,
 			);
 			path = ViewsProgrammatically;
 			sourceTree = "<group>";
