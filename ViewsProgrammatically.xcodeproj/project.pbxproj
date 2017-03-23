@@ -20,7 +20,6 @@
 		111575B21E845B9300A05C5E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		111575B51E845B9300A05C5E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		111575B71E845B9300A05C5E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		111575BD1E845BE800A05C5E /* ViewsProgrammatically-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ViewsProgrammatically-Bridging-Header.h"; sourceTree = "<group>"; };
 		111575BE1E845BE800A05C5E /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		111575BF1E845BE800A05C5E /* NumberCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NumberCollectionViewCell.swift; sourceTree = "<group>"; };
 		111575C01E845BE800A05C5E /* NumbersCollectionViewDelegateAndDataSource.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NumbersCollectionViewDelegateAndDataSource.swift; sourceTree = "<group>"; };
@@ -64,7 +63,6 @@
 				111575B21E845B9300A05C5E /* Assets.xcassets */,
 				111575B41E845B9300A05C5E /* LaunchScreen.storyboard */,
 				111575B71E845B9300A05C5E /* Info.plist */,
-				111575BD1E845BE800A05C5E /* ViewsProgrammatically-Bridging-Header.h */,
 			);
 			path = ViewsProgrammatically;
 			sourceTree = "<group>";
@@ -303,6 +301,7 @@
 				111575BC1E845B9300A05C5E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
